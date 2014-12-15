@@ -1,0 +1,21 @@
+{
+  "name": "test-carousel",
+  "version": "0.0.0",
+  "authors": [
+    "jd <jose4125@gmail.com>"
+  ],
+  "description": "test carousel",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
